@@ -1,0 +1,13 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "faker>=37.5.3",
+    "fastapi>=0.116.1",
+    "pydantic>=2.11.7",
+    "reportlab>=4.4.3",
+    "uvicorn>=0.35.0",
+]
